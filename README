@@ -1,6 +1,7 @@
 README
 
-To run the game use the instruction make runapp
+To run the game use the instruction make runapp.
+First arguement is total number of words to fall. Second arguement is number of words falling on the screen at a time. Third arguement is file containing words to fall
 To change the values of the number of words falling at once and the total wrods change runapp in makefile
 
 Pdf of report and git log is given
