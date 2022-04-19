@@ -1,0 +1,8 @@
+README
+
+To run the game use the instruction make runapp
+To change the values of the number of words falling at once and the total wrods change runapp in makefile
+
+Pdf of report and git log is given
+src , bin docs and data is given
+

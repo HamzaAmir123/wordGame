@@ -1,0 +1,46 @@
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Tue Sep 7 23:25:22 2021 +0200
+
+commit 448965fa93e758e7c2660d8905439c9452cd3623 (HEAD -> master)
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Tue Sep 7 23:25:22 2021 +0200
+
+    Created javadocs
+
+commit 1619c2eb2cc935f416b66c8ac9dc935a24f1c825
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Mon Sep 6 16:12:16 2021 +0200
+
+    End button functions
+
+commit 7eab7456138a84fa850ec5c980aca209763f616d
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Sun Sep 5 09:12:31 2021 +0200
+
+    Makefile created
+
+commit f141fd79d1a467e71cdd482733bbd096224e7d0e
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Sun Sep 5 09:12:20 2021 +0200
+
+    Threads added and start button
+
+commit a692652366d97ce49d66f92410e208bff27953bd
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Sun Sep 5 09:10:29 2021 +0200
+
+    Controller class created
+
+commit 9912ed5a2ab56085a4589ee7cbc61ad632fdbe21
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Sat Sep 4 22:18:06 2021 +0200
+
+    Quit button created
+
+commit 19b90379b9511078da153db0cc05c784e269da32
+Author: hamza <hamza2019amir@gmail.com>
+Date:   Sat Sep 4 21:18:12 2021 +0200
+
+    Sketon code is stored
+(END)
+
